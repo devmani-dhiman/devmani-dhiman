@@ -8,5 +8,5 @@
 - 💬 Ask me about Data science, Statistics and Algebra
 - 📫 How to reach me: 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am still thinking...
+- ⚡ Fun fact: I can teach you how to unlock fast calculations
 -->
